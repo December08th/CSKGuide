@@ -10,9 +10,11 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.5)
     eventmachine (1.2.5-x86-mingw32)
     execjs (2.7.0)
-    ffi (1.9.22-x86-mingw32)
+    ffi (1.11.1)
+    ffi (1.11.1-x86-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -69,6 +71,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
