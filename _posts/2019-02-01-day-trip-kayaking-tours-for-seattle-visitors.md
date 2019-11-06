@@ -1,16 +1,17 @@
 ---
 title: Day Trip Kayaking Tours for Seattle Visitors
-layout: post
-date: 2019-02-01 23:00:00 +0000
+date: 2019-02-01 23:00:00 Z
 categories:
 - Rentals
 - Kayaking
 - Tours
+layout: post
 image: https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2170&q=80
 image-sm: https://images.unsplash.com/photo-1502175353174-a7a70e73b362?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60
 redirect_from:
-  - /2019/02/01/kayak-rental-friday-harbor-wa-copy/
+- "/2019/02/01/kayak-rental-friday-harbor-wa-copy/"
 ---
+
 Whether it’s your first time visiting Seattle or it’s a frequent destination for your travels, exploring the Puget Sound is a must-do activity for your list. A day trip to Friday Harbor in the San Juan Islands is the perfect addition to your getaway: enjoy the lush scenery, sweeping views, and potential wildlife sightings in one of the most breathtaking locales in the northwest.
 
 ![Sea Kayaking Tours Just North of Seattle Wa]({{site.baseurl}}/uploads/aerial-off-sanjuan-county-park-kayakers-paddlingcom-size.jpg "Sea Kayaking Tours Just North of Seattle Wa")

@@ -1,16 +1,17 @@
 ---
 title: Friday Harbor Day Kayaking Trip
-layout: post
-date: 2019-04-01 00:00:00 -0700
+date: 2019-04-01 07:00:00 Z
 categories:
 - Rentals
 - Kayaking
 - Tours
+layout: post
 image: https://images.unsplash.com/photo-1474490734583-97db53a03902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80
 image-sm: https://images.unsplash.com/photo-1474490734583-97db53a03902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
 redirect_from:
-  - /2019/04/01/why-you-should-book-a-san-juan-islands-kayaking-tour/
+- "/2019/04/01/why-you-should-book-a-san-juan-islands-kayaking-tour/"
 ---
+
 If you’re visiting the Pacific Northwest, you won’t want to miss out on spending a day on a kayaking trip from Friday Harbor. Nestled in the heart of the San Juan Islands, Friday Harbor offers the perfect location for experiencing the best of the Northwest’s scenery, wildlife, and recreation.
 
 ![Friday Harbor Day Kayaking Trip]({{site.baseurl}}/uploads/0019.jpg "Friday Harbor Day Kayaking Trip")

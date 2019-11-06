@@ -1,50 +1,49 @@
-# Site settings
-email:
+---
+title: Crystal Seas Kayaking - Guide to the San Juan Islands
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/:title/"
+email: 
 baseurl: "/guide"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-1231479-1
-
-# SEO settings
-title: Crystal Seas Kayaking - Guide to the San Juan Islands
-description:
-url: "https://www.crystalseas.com"
-twitter_username:
-default_img:
-
-# jekyll-imgix configuration
+description: 
+url: https://www.crystalseas.com
+twitter_username: 
+default_img: 
 imgix:
-  source: westest.imgix.net # Your imgix source address
-  secure_url_token: RsJG4mhdkPXNxRZd # (optional) The Secure URL Token associated with your source
-
-# Profile settings
-name:
-profile_img:
-profile:
+  source: westest.imgix.net
+  secure_url_token: RsJG4mhdkPXNxRZd
+name: 
+profile_img: 
+profile: 
 social:
-  github:
-
-# Build settings
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
+  github: 
+exclude:
+- _screenshots
+- Gemfile
+- Gemfile.lock
+- LICENSE.txt
+- README.md
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
-    values:
-      permalink: /:title/
-       
-# Sass
+permalink: "/:year/:month/:day/:title/"
 sass:
   style: compressed
-
-# Gems
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - octopress-autoprefixer
-  - jekyll/imgix
-  - jekyll-redirect-from
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- octopress-autoprefixer
+- jekyll/imgix
+- jekyll-redirect-from

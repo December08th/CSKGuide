@@ -1,16 +1,17 @@
 ---
 title: The Best Kayak Tour Near Seattle, Washington
-layout: post
-date: 2019-03-25 00:00:00 -0700
+date: 2019-03-25 07:00:00 Z
 categories:
 - Rentals
 - Kayaking
 - Tours
+layout: post
 image: https://images.unsplash.com/photo-1531335773500-23410807365a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80
 image-sm: https://images.unsplash.com/photo-1531335773500-23410807365a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
 redirect_from:
-  - /2019/03/25/the-best-kayak-tour-near-seattle-washington/
+- "/2019/03/25/the-best-kayak-tour-near-seattle-washington/"
 ---
+
 If you’re a first-time Seattle visitor or a Pacific Northwest local, there’s no better way to experience the area than with a [kayak tour in the San Juan Islands](https://www.crystalseas.com/cs-sj-tour-3hour.htm).
 
 ![The Best Kayak Tour Near Seattle, Washington]({{site.baseurl}}/uploads/0026.jpg "The Best Kayak Tour Near Seattle, Washington")

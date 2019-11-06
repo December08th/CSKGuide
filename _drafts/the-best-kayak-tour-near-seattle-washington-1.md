@@ -1,15 +1,15 @@
 ---
 title: Why You Should Book a San Juan Islands Kayaking Tour
-layout: post
-date: 2019-04-01 00:00:00 -0700
+date: 2019-04-01 07:00:00 Z
 categories:
 - Rentals
 - Kayaking
 - Tours
+layout: post
 image: https://images.unsplash.com/photo-1436162716854-dcb9157bfac1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
 image-sm: https://images.unsplash.com/photo-1436162716854-dcb9157bfac1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
-
 ---
+
 The San Juan Islands are the quintessential, Pacific Northwest locale, offering picturesque scenery and sweeping views of the lush island life and the expansive Puget Sound.
 
 ![Why You Should Book a San Juan Islands Kayaking Tour]({{site.baseurl}}/uploads/IMG_4559-blog-2-1.jpg "Why You Should Book a San Juan Islands Kayaking Tour")
