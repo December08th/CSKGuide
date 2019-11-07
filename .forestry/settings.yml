@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
@@ -20,9 +17,9 @@ sections:
   create: all
   match: "**/*"
 upload_dir: uploads
-public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
+public_path: "{{site.baseurl}}/uploads"
+front_matter_path: "/uploads"
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
