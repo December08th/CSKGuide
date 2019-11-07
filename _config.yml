@@ -19,7 +19,7 @@ baseurl: "/guide"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: UA-1231479-1
-description: 
+description: Crystal Seas Kayaking Guide of the San Juan Islands
 url: https://www.crystalseas.com/guide/
 twitter_username: 
 default_img: 
