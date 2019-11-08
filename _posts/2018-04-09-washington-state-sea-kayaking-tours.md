@@ -1,18 +1,18 @@
 ---
 title: Washington State Sea Kayaking Tours
-date: 2018-04-09 22:00:00 Z
+date: 2018-04-09T22:00:00.000+00:00
 categories:
 - Tours
 - Kayaking
 - Washington_State
 - San_Juan_Islands
 layout: post
-image: https://stqsfya1eeoulo.dreamhosters.com/2018-12-03_17-33-02.jpg
-image-sm: ''
+image: https://res.cloudinary.com/draxsqikl/image/upload/v1512965986/aerial-off-sanjuan-county-park-kayakers-paddlingcom-size_emlpii.jpg
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1512965986/aerial-off-sanjuan-county-park-kayakers-paddlingcom-size_emlpii.jpg
 redirect_from:
 - "/2018/04/09/washington-state-sea-kayaking-tours/"
----
 
+---
 Searching for the perfect Washington sea kayaking tours? The San Juan Islands are known for their breathtaking views, temperate climate and exciting wildlife. One of the best ways to experience all that the San Juan Islands have to offer is by taking a kayaking tour. Even beginners can participate in a guided three-hour tour along the coast of San Juan Island with Crystal Seas Kayaking.
 
 ![Reef Point, San Juan Islands, WA](https://stqsfya1eeoulo.dreamhosters.com/2018-12-03_17-40-03.jpg "Reef Point, San Juan Islands, WA")
