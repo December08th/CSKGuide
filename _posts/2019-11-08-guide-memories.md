@@ -4,7 +4,7 @@ date: 2019-11-08 08:00:00 +0000
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image2_scgq5c.jpg
-image-sm: ''
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1573246039/image2_scgq5c.jpg
 redirect_from: []
 
 ---
