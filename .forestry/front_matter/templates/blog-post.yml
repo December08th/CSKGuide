@@ -24,5 +24,6 @@ fields:
   name: redirect_from
   label: redirect_from
 pages:
+- _posts/vacation-vibes.md
 - _posts/guide-memories.md
 - _posts/2019-11-08-Guest Poem.md
