@@ -8,8 +8,7 @@ categories:
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573248047/orca-territory-1_wvqgpa.jpg
 image-sm: ''
-redirect_from:
-- "/2019/04/01/why-you-should-book-a-san-juan-islands-kayaking-tour/"
+redirect_from: []
 
 ---
 If you’re visiting the Pacific Northwest, you won’t want to miss out on spending a day on a kayaking trip from Friday Harbor. Nestled in the heart of the San Juan Islands, Friday Harbor offers the perfect location for experiencing the best of the Northwest’s scenery, wildlife, and recreation.
