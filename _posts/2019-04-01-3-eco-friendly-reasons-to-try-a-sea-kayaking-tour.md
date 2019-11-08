@@ -1,17 +1,17 @@
 ---
 title: 3 Eco-Friendly Reasons to Try a Sea Kayaking Tour
-date: 2019-04-01 07:00:00 Z
+date: 2019-04-01T07:00:00.000+00:00
 categories:
 - Rentals
 - Kayaking
 - Tours
 layout: post
-image: https://images.unsplash.com/photo-1450500392544-c2cb0fd6e3b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
-image-sm: https://images.unsplash.com/photo-1450500392544-c2cb0fd6e3b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
+image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_1111/v1573248227/WestSide_DHP_w6vs7t.jpg
+image-sm: ''
 redirect_from:
 - "/2019/04/01/kayak-rental-friday-harbor-wa/"
----
 
+---
 Taking a kayak tour in Puget Sound is an eco-friendly way to see the islands and experience the beauty of the Pacific Northwest without harming the natural environment.
 
 ![3 Eco-Friendly Reasons to Try a Sea Kayaking Tour]({{site.baseurl}}/uploads/DJI_0014.jpg "3 Eco-Friendly Reasons to Try a Sea Kayaking Tour")
