@@ -4,7 +4,7 @@ date: 2019-11-08 08:00:00 +0000
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573247066/sunset-2_gmrojx.jpg
-image-sm: ''
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/v1573247066/sunset-2_gmrojx.jpg
 redirect_from: []
 
 ---
