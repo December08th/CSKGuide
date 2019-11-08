@@ -1,9 +1,9 @@
 ---
-title: ''
-date: 
+title: Guest Poem
+date: 2019-11-08 08:00:00 +0000
 categories: []
 layout: ''
-image: ''
+image: https://res.cloudinary.com/draxsqikl/image/upload/v1573245592/image1_rdfhow.jpg
 image-sm: ''
 redirect_from: []
 
