@@ -1,6 +1,6 @@
 ---
 title: Canoing Puget Sound Orcas Test
-date: 2018-04-09 22:00:00 Z
+date: 2018-04-09T22:00:00.000+00:00
 categories:
 - Canoing
 - Tours
@@ -8,12 +8,12 @@ categories:
 - Friday_Harbor
 - San_Juan_Islands
 layout: post
-image: https://stqsfya1eeoulo.dreamhosters.com/2018-11-13_21-39-09.jpg
-image-sm: ''
+image: https://res.cloudinary.com/draxsqikl/image/upload/v1573248545/2018-11-13_21-39-09_1_reowct.jpg
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_444/v1573248545/2018-11-13_21-39-09_1_reowct.jpg
 redirect_from:
 - "/2018/04/09/canoing-puget-sound-orcas/"
----
 
+---
 **Where can one go canoing in the Puget Sound and see Orca?** The west side of San Juan Islands are a popular spot for whale watchers to see orca. Canoing might be a bit risky because of the inherent instability of a canoe. We recommend a sea kayaking tour instead. :)
 
 ![](https://stqsfya1eeoulo.dreamhosters.com/2018-11-13_21-39-09.jpg)
