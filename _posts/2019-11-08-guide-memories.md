@@ -34,15 +34,15 @@ bright I didn’t need a head lamp as it reflected off the water. I gently climb
 
 I also had a really fun week with 5 ladies near the end of the season. They were very good at getting the most out of every moment. I found the group laughing uncontrollably at least once a day. It really inspired me to travel with my female friends more.
 
-![](https://lh6.googleusercontent.com/Y8qk19dGwD9xeDzipgKtgb3iPSRrq_Q-KaavqJGL5PEGJ2fXdLlGhGGYb61fEDdx5VLZWWt2S9_fshSI9uHNHBtZq12p9A4AoIxEFUwH-MCE-rxgjq1_z9UmLCOS-UGaqTcxxwiB =408x230)
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_800/v1573246531/2019-11-08_12-55-16_1_mdl8g0.jpg)
 
 **Casey-** I remember one of my guests this summer, Barb, leading a stretching and yoga session at the summit of Mt. Constitution. Our entire group (eight people) had just biked all the way to the summit! We were desperately in need of some stretching to help our muscles recoup after such a long and tough ride. The only way we could all make it up that mountain was if a group of strangers supported each other – and that’s exactly what happened.
 
-![](https://lh3.googleusercontent.com/LXCR8u2KjsS0UTImYAmEv0hObUY9o9RLHRZV5S4TVV4vup8335FTPvqABPfCjl4VxqDZHyHKvmIBiCA73eFxL8HPGw2YGkW9P6ag8LCBeDbGoYOQHK_oZYnjstiqgM60m0G6SerA =307x305)
+![](https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image2_scgq5c.jpg)
 
 **Mariah**- This summer I had a little girl who was so dedicated to saving the whales. She told me all about the threats dolphins were facing and what people were doing about it around the world. She asked the best questions about the salmon, the whales, the hatcheries, the government, and what we are doing to help. She was maybe 9! It made me feel so good about future generations.
 
-![](https://lh4.googleusercontent.com/RDCLoD5l8UOneZsZEU2zEQEe6_prSfWfcuAdSV0YDKj4HIehPwyjp6l_57ZGgfSrZyQ8TB71KrglQ1Jfu6yMUlq17TJGmt1dXuTmW_waWRaswYNCa1X6Ey9vngsK-O9N8TPpBXUd =250x334)
+![](https://res.cloudinary.com/draxsqikl/image/upload/v1573246038/image6_bdyyoc.jpg)
 
 **Sam-** I had so many meaningful interactions and conversations with guests this year, some connections that will really last. One of my favorite memories was exploring Yellow Island in depth with a guest fascinated in flora. We found some flowers that I had never seen before!
 
