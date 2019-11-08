@@ -16,13 +16,11 @@ redirect_from: []
 
 **Miguel-** Had such a fun time with my new friends Terry and Sheralynn from Corvallis OR. We spent almost an hour at the alpaca store trying on hats and laughing. A few weeks later, one of those hats came in the mail. It brought a huge smile to my face thinking about that day. I still regularly wear the hat too. It fits great!
 
-One night during a full moon I woke up on Jones island to go to the bathroom. The moon was so
-
-bright I didn’t need a head lamp as it reflected off the water. I gently climbed down to the tide line but right after I finished relieving myself I heard a sound. I climbed back up to my tent to get a better look. A humpback whale surfaced again about 100 yards off the island. I couldn’t make out its features but its whole body shimmered as it broke the calm surface water, breath echoing off the cliff faces. I sat in peace, watching the moon, as I listened to the humpback slowly swim away. 
+One night during a full moon I woke up on Jones island to go to the bathroom. The moon was so bright I didn’t need a head lamp as it reflected off the water. I gently climbed down to the tide line but right after I finished relieving myself I heard a sound. I climbed back up to my tent to get a better look. A humpback whale surfaced again about 100 yards off the island. I couldn’t make out its features but its whole body shimmered as it broke the calm surface water, breath echoing off the cliff faces. I sat in peace, watching the moon, as I listened to the humpback slowly swim away.
 
 ![](https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image5_ligamr.jpg)
 
-**Annie-** The most memorable trip I had this year was a kayak camp group where one of the guests was blind. She gave me such a different outlook on a trip I had been leading every week. She wrote a poem about our trip that gives me chills every time I read it. You can read it [here](https://www.crystalseas.com/guide/)
+**Annie-** The most memorable trip I had this year was a kayak camp group where one of the guests was blind. She gave me such a different outlook on a trip I had been leading every week. She wrote a poem about our trip that gives me chills every time I read it. You can read it [here](https://www.crystalseas.com/guide/Guest-Poem/)
 
 **Natalie-** During a three hour tour, we came up to some splashing in the water. Confused, we got a little closer to see it was a bald eagle that had just caught a fish, but was struggling to carry it back to shore! If you didn’t know, eagle swim with their wings when this happens. We watched it swim to shore, get out of the water, and eat its fish! It was really cool.
 
