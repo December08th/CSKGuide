@@ -7,7 +7,7 @@ categories:
 - Tours
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_1111/v1573248227/WestSide_DHP_w6vs7t.jpg
-image-sm: ''
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_444/v1573248227/WestSide_DHP_w6vs7t.jpg
 redirect_from:
 - "/2019/04/01/kayak-rental-friday-harbor-wa/"
 
