@@ -7,7 +7,7 @@ categories:
 - Tours
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573248047/orca-territory-1_wvqgpa.jpg
-image-sm: ''
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1573248047/orca-territory-1_wvqgpa.jpg
 redirect_from: []
 
 ---
