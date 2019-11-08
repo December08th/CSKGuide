@@ -23,3 +23,5 @@ fields:
 - type: list
   name: redirect_from
   label: redirect_from
+pages:
+- _posts/Guest Poem.md
