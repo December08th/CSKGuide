@@ -1,6 +1,6 @@
 ---
 title: Guest Poem
-date: 2019-11-08 08:00:00 +0000
+date: 2019-11-08T08:00:00.000+00:00
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573245592/image1_rdfhow.jpg
@@ -14,9 +14,9 @@ Annie leads the pack into the foggy abyss with steadiness and strength, her love
 
 Our boat is the last to part the fog. Silence, then distant horn, silence, then quiet dance of rain tiptoeing lightly over the water and across my cheeks- this is what joy tastes like. Andy sits behind me, humming “oh Christmas Tree.” The exuberance of rocky waters and surfing boat wake oozes freely from his kind smile.
 
-Seven strangers,same familiar, but all new to each other, form a tribe for just one week, forever imprinting into each other’s footpath. As each thrown rock changes the course of a riverbed, they too change the bedrock of each other’s lives, permanent characters in this moment of shared time and space.
+Seven strangers, same familiar, but all new to each other, form a tribe for just one week, forever imprinting into each other’s footpath. As each thrown rock changes the course of a riverbed, they too change the bedrock of each other’s lives, permanent characters in this moment of shared time and space.
 
-We are from Friday Harbor, Washington, separate paths converging.
+We are from Friday Harbor, , separate paths converging.
 
 We are from fresh blueberries and steaming coffee.
 
