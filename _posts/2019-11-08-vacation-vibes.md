@@ -1,6 +1,6 @@
 ---
 title: Vacation Vibes
-date: 2019-11-08 08:00:00 +0000
+date: 2019-11-08T08:00:00.000+00:00
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573247066/sunset-2_gmrojx.jpg
@@ -30,6 +30,6 @@ We love hearing about the lifelong friendships made on our trips! Reach out to u
 
 **Plan another trip**
 
-One of the best ways to get those vacation vibes back is to go on another vacation! If you kayaked, check out our biking vacations! If you biked, try our kayaking vacations! And if you want to share the trip you already did with you family or friends, book it again! Tell us you are repeat customers and we will mix up some logistics so you get to see even more of the island!
+One of the best ways to get those vacation vibes back is to go on another vacation! If you kayaked, check out our [biking vacations](https://www.goterratrek.com)! If you biked, try our [kayaking vacations](https://www.crystalseas.com)! And if you want to share the trip you already did with you family or friends, book it again! Tell us you are repeat customers and we will mix up some logistics so you get to see even more of the island!
 
 Sharing the San Juan Island gives us an incredible amount of satisfaction. We want you to be able to take the feelings and experiences we share, bring them home, grow on them, and share them in an effort to share joy and happiness in our fast paced world. Maybe you will even come back and share the San Juan Islands with a friend or family member that hasn't made it here yet! Whatever you choose, thank you for sharing your time with us.
