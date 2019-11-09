@@ -31,12 +31,12 @@ profile_img:
 profile: 
 social:
   github: 
-exclude:
-- _screenshots
-- Gemfile
-- Gemfile.lock
-- LICENSE.txt
-- README.md
+# exclude:
+# - _screenshots
+# - Gemfile
+# - Gemfile.lock
+# - LICENSE.txt
+# - README.md
 markdown: kramdown
 permalink: "/:year/:month/:day/:title/"
 sass:
