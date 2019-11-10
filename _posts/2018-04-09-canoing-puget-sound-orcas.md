@@ -1,5 +1,5 @@
 ---
-title: Canoing Puget Sound Orcas Test
+title: Canoing Puget Sound Orcas
 date: 2018-04-09T22:00:00.000+00:00
 categories:
 - Canoing
