@@ -1,6 +1,6 @@
 ---
 title: Guide Memories
-date: 2019-11-08 08:00:00 +0000
+date: 2019-11-08T08:00:00.000+00:00
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image2_scgq5c.jpg
@@ -16,7 +16,7 @@ redirect_from: []
 
 **Miguel-** Had such a fun time with my new friends Terry and Sheralynn from Corvallis OR. We spent almost an hour at the alpaca store trying on hats and laughing. A few weeks later, one of those hats came in the mail. It brought a huge smile to my face thinking about that day. I still regularly wear the hat too. It fits great!
 
-One night during a full moon I woke up on Jones island to go to the bathroom. The moon was so bright I didn’t need a head lamp as it reflected off the water. I gently climbed down to the tide line but right after I finished relieving myself I heard a sound. I climbed back up to my tent to get a better look. A humpback whale surfaced again about 100 yards off the island. I couldn’t make out its features but its whole body shimmered as it broke the calm surface water, breath echoing off the cliff faces. I sat in peace, watching the moon, as I listened to the humpback slowly swim away.
+One night during a full moon I woke up to an unknown sound on Jones island. Curiosity getting the best of me; I exited my tent to investigate. The moon was so bright I didn’t need a head lamp as it reflected off the water. A humpback whale surfaced about 100 yards off the island. I couldn’t make out its features but its whole body shimmered as it broke the calm surface water, breath echoing off the cliff faces. I sat in peace, watching the moon, as I listened to the humpback slowly swim away.
 
 ![](https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image5_ligamr.jpg)
 
