@@ -8,7 +8,7 @@ image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1573245592/im
 redirect_from: []
 
 ---
-The fog hung low, an ancient dance of water and air, as single file we slipped into the world beyond. Seven strangers, some familiar, but all new to each other, cross over the threshold together, from city lives of busses, hotel towels, and daily doses of depression on the evening news, into the sacred home the black and white creatures who dance behind my eyelids, egg jellies, bioluminescence and harbor seals. The kayak slips quietly through the water, the paddle kisses the water, sometimes with the grace of familiar lovers, kind “I love you” eyes and at other times, urgent, awkward like teenagers finding each other in the dark.
+The fog hung low, an ancient dance of water and air, as single file we slipped into the world beyond. Seven strangers, some familiar, but all new to each other, cross over the threshold together, from city lives of busses, and andhotel towels, and daily doses of depression on the evening news, into the sacred home the black and white creatures who dance behind my eyelids, egg jellies, bioluminescence and harbor seals. The kayak slips quietly through the water, the paddle kisses the water, sometimes with the grace of familiar lovers, kind “I love you” eyes and at other times, urgent, awkward like teenagers finding each other in the dark.
 
 Annie leads the pack into the foggy abyss with steadiness and strength, her love and respect for the Southern Resident Orcas, tattooed permanently into her spirit. Gale and Hannah slip next through the silky fog curtain. Mother and daughter sharing a moment in time, their connection warm, secret and simultaneously inviting. Jay and Kelly disappear next into the world beyond. Quiet, reassuring touches between them, their kindness spilling onto others, inviting conversation.
 
@@ -24,7 +24,7 @@ We are from granola bars shared in the safe shadow of Sentinal Island, with Andy
 
 We are from color coded dry bags and raccoons fighting over almonds.
 
-We are from bright tablecloths spread over rocks, from perfectly curated meals to fascinate the tastebuds and and nourish tired cells.
+We are from bright tablecloths spread over rocks, from perfectly curated meals to fascinate the tastebuds and nourish tired cells.
 
 We are from two kind guides scrubbing dishes, charting safe passage, encouraging brave steps beyond and repeating patiently Island names with compassion as if the question is all at once new.
 
