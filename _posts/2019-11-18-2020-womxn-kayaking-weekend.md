@@ -18,6 +18,6 @@ I believe that traveling with an all women group opens the doors to being 100% y
 
 This will be a great opportunity to become closer to your friends and make new friends all while exploring the San Juan Islands by kayak! Click here to learn more!
 
-![](https://res.cloudinary.com/draxsqikl/image/upload/bo_0px_solid_rgb:ffffff,c_scale,f_auto,w_1000,z_0/v1574117776/crystalseas-brooke-01.jpg)
+![](https://res.cloudinary.com/draxsqikl/image/upload/bo_20px_solid_rgb:f13b3b,c_scale,e_auto_saturation,f_auto,w_1000/v1574117776/crystalseas-brooke-01.jpg)
 
-_Brooke grew up spending her time on the lakes, rivers, and forests of Michigan. She graduated from Central Michigan University in 2015 with a degree in Outdoor Recreation and Environmental Science all while spending almost every weekend biking, rock climbing, skiing or ice climbing. She spends her summers guiding for Crystal Seas and Terratrek in hopes of sharing her love of exploring the outdoors._
+_Brooke grew up spending her time on the lakes, rivers, and forests of Michigan. She graduated from Central Michigan University in 2015 with a degree in Outdoor Recreation and Environmental Science all while spending almost every weekend biking, rock climbing, skiing or ice climbing. She spends her summers guiding for Crystal Seas and TerraTrek in hopes of sharing her love of exploring the outdoors._
