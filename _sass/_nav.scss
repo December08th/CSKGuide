@@ -1,0 +1,48 @@
+.site-nav {
+
+    padding: 12px 36px 20px;
+    font-size: 28px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    z-index: 1;
+    @media (max-width: 1200px) {
+        padding-left: 6px;
+        padding-right: 6px;
+        font-size: 26px;
+    }
+
+    &__item {
+        img {
+            width: 190px;
+            @media (max-width: 1200px) {
+                width: 180px;
+            }
+        }
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 36px;
+        border-bottom: 2px solid transparent;
+        letter-spacing: -1px;
+        &:last-child {
+            margin-right: 0;
+        }
+        &--text {
+            &:hover {
+                border-color: #9f8f68;
+            }
+            @media (max-width: 1200px) {
+                margin-right: 24px;
+            }
+        }
+        &--img {
+            margin-right: 16px;
+            @media (max-width: 1200px) {
+                margin-right: 0;
+            }
+        }
+    }
+
+}

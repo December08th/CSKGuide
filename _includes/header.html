@@ -1,0 +1,15 @@
+<header>
+    <nav class="site-nav">
+        <a class="site-nav__item site-nav__item--img" href="{{- '/' | relative_url -}}">
+            <img src="{{- '/images/crystalseas-logo-small.png' | relative_url -}}" alt="{{- site.title -}}">
+        </a>
+        <a class="site-nav__item site-nav__item--text" href="{{- '/' | relative_url -}}">
+            Home
+        </a>
+        {%- for nav_item in site.data.navbar -%}
+          <a class="site-nav__item site-nav__item--text" href="{{- nav_item.url -}}" target="_blank">
+            {{- nav_item.title -}}
+          </a>
+        {%- endfor -%}
+    </nav>
+  </header>
