@@ -9,6 +9,10 @@
     border-bottom: 1px solid #eee;
     z-index: 5;
 
+    @media (max-width: 864px) {
+        padding-bottom: 12px;
+    }
+
     &__item {
         img {
             width: 190px;
@@ -67,6 +71,16 @@
             flex: 1 1 50%;
         }
     }
+}
+
+@media (max-width: 480px) {
+
+    .site-nav {
+        &__items {
+            flex-direction: column;
+        }
+    }
+
 }
 
 .menu-toggler {
