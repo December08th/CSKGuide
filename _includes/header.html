@@ -1,21 +1,26 @@
 <header>
     <nav class="site-nav">
+      <span class="site-nav__logo-wrapper">
         <a class="site-nav__item site-nav__item--img" href="{{- '/' | relative_url -}}">
             <img src="{{- '/images/crystalseas-logo-small.png' | relative_url -}}" alt="{{- site.title -}}">
         </a>
-        <span class="site-nav__items">
+        <button class="menu-toggler" id="menu-toggler">
+          <span class="menu-toggler__icon">{%- include hamburger.html -%}</span>
+        </button>
+      </span>
+      <span class="site-nav__items" id="site-nav__items">
+        <span class="site-nav__item-wrapper">
+          <a class="site-nav__item site-nav__item--text" href="{{- '/' | relative_url -}}">
+              Home
+          </a>
+        </span>
+        {%- for nav_item in site.data.navbar -%}
           <span class="site-nav__item-wrapper">
-            <a class="site-nav__item site-nav__item--text" href="{{- '/' | relative_url -}}">
-                Home
+            <a class="site-nav__item site-nav__item--text{% if forloop.last %} site-nav__item--last{% endif %}" href="{{- nav_item.url -}}" target="_blank">
+              {{- nav_item.title -}}
             </a>
           </span>
-          {%- for nav_item in site.data.navbar -%}
-            <span class="site-nav__item-wrapper">
-              <a class="site-nav__item site-nav__item--text" href="{{- nav_item.url -}}" target="_blank">
-                {{- nav_item.title -}}
-              </a>
-            </span>
-          {%- endfor -%}
-        </span>
+        {%- endfor -%}
+      </span>
     </nav>
   </header>
