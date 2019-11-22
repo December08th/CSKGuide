@@ -3,13 +3,19 @@
         <a class="site-nav__item site-nav__item--img" href="{{- '/' | relative_url -}}">
             <img src="{{- '/images/crystalseas-logo-small.png' | relative_url -}}" alt="{{- site.title -}}">
         </a>
-        <a class="site-nav__item site-nav__item--text" href="{{- '/' | relative_url -}}">
-            Home
-        </a>
-        {%- for nav_item in site.data.navbar -%}
-          <a class="site-nav__item site-nav__item--text" href="{{- nav_item.url -}}" target="_blank">
-            {{- nav_item.title -}}
-          </a>
-        {%- endfor -%}
+        <span class="site-nav__items">
+          <span class="site-nav__item-wrapper">
+            <a class="site-nav__item site-nav__item--text" href="{{- '/' | relative_url -}}">
+                Home
+            </a>
+          </span>
+          {%- for nav_item in site.data.navbar -%}
+            <span class="site-nav__item-wrapper">
+              <a class="site-nav__item site-nav__item--text" href="{{- nav_item.url -}}" target="_blank">
+                {{- nav_item.title -}}
+              </a>
+            </span>
+          {%- endfor -%}
+        </span>
     </nav>
   </header>

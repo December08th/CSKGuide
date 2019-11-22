@@ -46,3 +46,15 @@
     }
 
 }
+
+@media (max-width: 1200px) {
+    .site-nav {
+        &__items {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        &__item-wrapper {
+            flex: 1 1 50%;
+        }
+    }
+}
