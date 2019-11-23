@@ -50,9 +50,10 @@
     .site-nav {
 
         &__logo-wrapper {
-            display: flex;
+            display: block;
+            @include clearfix;
             width: 100%;
-            justify-content: space-between;
+            text-align: center;
         }
 
         &__item {
@@ -76,9 +77,11 @@
 @media (max-width: 480px) {
 
     .site-nav {
+        padding-left: 12px;
+        padding-right: 12px;
         &__items {
             flex-direction: column;
-        }
+        }        
     }
 
 }
@@ -89,6 +92,8 @@
     background: none;
     padding: 0;
     cursor: pointer;
+    position: relative;
+    top: 6px;
     &:focus {
         outline: none;
     }
@@ -98,6 +103,6 @@
     }
     @media (max-width: 1200px) {
         display: inline-block;
-        
+        float: left;
     }
 }
