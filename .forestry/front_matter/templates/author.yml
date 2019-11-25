@@ -28,35 +28,30 @@ fields:
 - name: social
   type: field_group_list
   fields:
-  - name: item
-    type: field_group
-    config: {}
-    fields:
-    - name: service
-      type: list
-      config:
-        use_select: true
-        min: 
-        max: 
-        source:
-          type: simple
-        options:
-        - Email
-        - Twitter
-        - Facebook
-        - Instagram
-        - LinkedIn
-        - Github
-      label: Service
-    label: Item
+  - name: service
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: simple
+      options:
+      - Email
+      - Twitter
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Github
+    label: Service
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: URL or Email
   config:
     min: 
     max: 
     labelField: 
   label: Social
-- name: url
-  type: text
-  config:
-    required: false
-  label: Url
-  description: URL or email
