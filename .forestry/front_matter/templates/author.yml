@@ -43,5 +43,10 @@ fields:
     max: 
     labelField: 
   label: Social
+- name: author_image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 pages:
 - _data/author.yml
