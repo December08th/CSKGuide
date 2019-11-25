@@ -9,3 +9,4 @@ social:
 - service: Twitter
   url: https://twitter.com/john
 url: ''
+author_image: "/uploads/500x400.png"
