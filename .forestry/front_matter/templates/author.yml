@@ -1,4 +1,34 @@
 ---
 label: Author
 hide_body: false
-fields: []
+fields:
+- name: image
+  type: field_group
+  config: {}
+  fields:
+  - name: image
+    type: image_gallery
+    config: {}
+    label: Image
+  - name: alt_text
+    type: text
+    config:
+      required: false
+    label: Alt text
+  label: Image
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+- name: social
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Social
