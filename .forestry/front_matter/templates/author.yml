@@ -11,11 +11,6 @@ fields:
     schema:
       format: markdown
   label: Text
-- name: image
-  type: file
-  config:
-    maxSize: 250
-  label: Image
 - name: social
   type: field_group_list
   fields:
