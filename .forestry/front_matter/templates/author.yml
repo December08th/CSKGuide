@@ -21,14 +21,42 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: Text
 - name: social
   type: field_group_list
+  fields:
+  - name: item
+    type: field_group
+    config: {}
+    fields:
+    - name: service
+      type: list
+      config:
+        use_select: true
+        min: 
+        max: 
+        source:
+          type: simple
+        options:
+        - Email
+        - Twitter
+        - Facebook
+        - Instagram
+        - LinkedIn
+        - Github
+      label: Service
+    label: Item
   config:
     min: 
     max: 
     labelField: 
   label: Social
+- name: url
+  type: text
+  config:
+    required: false
+  label: Url
+  description: URL or email
