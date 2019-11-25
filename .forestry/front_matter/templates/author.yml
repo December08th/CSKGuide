@@ -57,3 +57,5 @@ fields:
     max: 
     labelField: 
   label: Social
+pages:
+- _data/author.yml
