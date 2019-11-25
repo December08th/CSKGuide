@@ -8,12 +8,18 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: show_author
+  type: boolean
+  label: Show Author
+  description: Enable this if you want the author info shown
 - type: list
   name: categories
   label: categories
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: textarea
   name: image
   label: image
