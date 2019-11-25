@@ -6,3 +6,11 @@ social:
   service: Email
 - service: Twitter
   url: https://twitter.com/john
+- url: https//:www.facebook.com
+  service: Facebook
+- url: https//:www.instagram.com
+  service: Instagram
+- url: https//:www.linkedin.com
+  service: LinkedIn
+- url: https//:www.github.com
+  service: Github
