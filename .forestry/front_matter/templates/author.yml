@@ -28,12 +28,6 @@ fields:
 - name: social
   type: field_group_list
   fields:
-  - name: url
-    type: text
-    config:
-      required: false
-    label: URL
-    description: URL or Email
   - name: service
     type: select
     default: []
@@ -52,6 +46,12 @@ fields:
         file: 
         path: 
     label: Service
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+    description: URL or Email
   config:
     min: 
     max: 
