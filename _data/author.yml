@@ -1,11 +1,8 @@
 ---
+author_image: "/uploads/500x400.png"
 text: Sample text
-image:
-  image: []
-  alt_text: ''
 social:
 - url: john@doe.com
   service: Email
 - service: Twitter
   url: https://twitter.com/john
-

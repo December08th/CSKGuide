@@ -31,23 +31,28 @@ layout: default
   </section>
 
   {%- if page.show_author == true -%}
+    {%- assign author = site.data.author -%}
     <section class="profile">
       <div class="profile__card">
         <div class="profile__img">
-          <figure class="absolute-bg" style="background-image: url('{{- site.data.author.image.image | relative_url -}}');"></figure>
+          <figure class="absolute-bg" style="background-image: url('{{- author.author_image | relative_url -}}');"></figure>
         </div>
         <div class="profile__container">
-          <p>{{ site.profile }}</p>
-          {% if site.email or site.social %}
+          {{ author.text | markdownify }}
+          {%- assign social_size = author.social | size -%}
+          {%- if social_size > 0 -%}
             <ul class="profile__social">
-              {% if site.email %}
-                <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
-              {% endif %}
-              {% for social in site.social %}
-                <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
-              {% endfor %}
+              {%- for social_item in author.social -%}
+                  {%- if social_item.service.size > 0 and social_item.url.size > 0 -%}
+                    {%- if social_item.service == 'Email' -%}
+                      <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{- social_item.url -}}"></a></li>
+                    {%- else -%}
+                      <li><a class="fa fa-lg fa-{{ social_item.service | slugify }}" href="{{- social_item.url -}}" target="_blank"></a></li>
+                    {%- endif -%}
+                  {%- endif -%}
+              {%- endfor -%}
             </ul>
-          {% endif %}
+          {%- endif -%}
         </div>
       </div>
     </section>

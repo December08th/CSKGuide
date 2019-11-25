@@ -26,11 +26,7 @@ default_img:
 imgix:
   source: westest.imgix.net
   secure_url_token: RsJG4mhdkPXNxRZd
-name: 
-profile_img: 
-profile: 
-social:
-  github: 
+ 
 # exclude:
 # - _screenshots
 # - Gemfile
