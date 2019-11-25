@@ -1,6 +1,9 @@
 ---
 author_image: "/uploads/500x400.png"
-text: Sample text
+text: |-
+  Sample line 1
+
+  Sample line 2
 social:
 - url: john@doe.com
   service: Email
