@@ -6,7 +6,8 @@ layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573247066/sunset-2_1_ktgtfi.jpg
 image-sm: https://res.cloudinary.com/draxsqikl/image/upload/v1573247066/sunset-2_1_ktgtfi.jpg
 redirect_from: []
-show_author: true
+show_author: false
+
 ---
 ![Sunset Sea Kayaking Tour with Crystal Seas Kayaking](https://res.cloudinary.com/draxsqikl/image/upload/w_800,ar_16:9,c_fill/v1573247066/sunset-2_1_ktgtfi.jpg "Sunset Sea Kayaking Tour with Crystal Seas Kayaking")Vacationing in the San Juan Islands can show you a part of our country where water and land join together in perfect harmony. Whether exploring the steep, sea star covered walls by kayak, wandering among the driftwood of South beach, or biking to Roche Harbor, we always feel more connected to the world around us than when we are off the island. The contrasting madrona trees spread their branches all over the island inviting us to relax and to take in the beauty of the world. The love for the Southern Resident Killer Whales is spread around and flyers describing efforts to help them can be found around town. It is this special place that Crystal Seas takes great pride in sharing with you, a place that we have loved for so long. But how can we keep that relaxed and satisfied vibe from our time in the San Juan Islands in our life all year round? We’ve got a few tips for you!
 
