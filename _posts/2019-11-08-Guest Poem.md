@@ -6,6 +6,7 @@ layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573245592/image1_rdfhow.jpg
 image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1573245592/image1_rdfhow.jpg
 redirect_from: []
+show_author: true
 
 ---
 The fog hung low, an ancient dance of water and air, as single file we slipped into the world beyond. Seven strangers, some familiar, but all new to each other, cross over the threshold together, from city lives of busses, and andhotel towels, and daily doses of depression on the evening news, into the sacred home the black and white creatures who dance behind my eyelids, egg jellies, bioluminescence and harbor seals. The kayak slips quietly through the water, the paddle kisses the water, sometimes with the grace of familiar lovers, kind “I love you” eyes and at other times, urgent, awkward like teenagers finding each other in the dark.
