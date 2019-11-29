@@ -6,6 +6,7 @@ layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image2_scgq5c.jpg
 image-sm: https://res.cloudinary.com/draxsqikl/image/upload/w_444/v1573246039/image2_scgq5c.jpg
 redirect_from: []
+show_author: true
 
 ---
 ![](https://res.cloudinary.com/draxsqikl/image/upload/v1573246039/image1_afuk93.jpg)A summer of guiding can produce some amazing memories. I asked our guides to share some of their favorite memories of the 2019 season:
