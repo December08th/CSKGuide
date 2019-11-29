@@ -1,11 +1,12 @@
 ---
 title: 2020 Womxn Kayaking Weekend
-date: 2019-11-18 08:00:00 +0000
+date: 2019-11-18T08:00:00.000+00:00
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,e_auto_saturation,f_auto,w_1000/v1574117774/image2_gmkjr6.jpg
 image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,e_auto_saturation,f_auto,w_444/v1574117774/image2_gmkjr6.jpg
 redirect_from: []
+show_author: true
 
 ---
 Living an active lifestyle has helped me stay sane in the chaos of life. Whether I’m rock climbing, biking, skiing, or kayaking; I find myself staying grounded and meeting wonderful people. A game changer for me was when I first went rock climbing in an all women group. The entire vibe shifted. You see, the climbing community can be supportive and welcoming, but most often I find that climbers are there for themselves and will only support you if you can climb as hard as they do. When I was climbing with all women, the pressure to be good enough- disappeared. No matter how hard I climbed, I still was being supported. The women around me were there to support everyone and be support by everyone as well.
