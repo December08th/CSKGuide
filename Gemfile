@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "octopress-autoprefixer"
   gem "liquid"
-  gem "jekyll-imgix"
+  # gem "jekyll-imgix"
   gem "jekyll-redirect-from"
 end
 
