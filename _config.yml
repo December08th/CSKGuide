@@ -23,9 +23,6 @@ description: Crystal Seas Kayaking Guide of the San Juan Islands
 url: https://www.crystalseas.com/guide/
 twitter_username: 
 default_img: 
-imgix:
-  source: westest.imgix.net
-  secure_url_token: RsJG4mhdkPXNxRZd
  
 # exclude:
 # - _screenshots
