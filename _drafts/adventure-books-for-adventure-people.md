@@ -5,7 +5,7 @@ date: 2020-01-14 08:00:00 +0000
 show_author: true
 categories: []
 image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_966/v1573248227/WestSide_DHP_w6vs7t.jpg
-image-sm: ''
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_279/v1573248227/WestSide_DHP_w6vs7t.jpg
 redirect_from: []
 
 ---
