@@ -22,7 +22,7 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
   Susan Conrad's Inside was one of the books that Casey and I read before setting out for our own Inside Passage journey. It is beautifully written, spiritual, and just a feel good book that shows some hardships and challenges of not only a journey up the Inside Passage, but through life as well
 * **Paddling North: A Solo Adventure Along the Inside Passage by Audrey Sutherland and Yoshiko Yamamoto**
 
-  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you. 
+  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you.
 * **The Pacific Alone: The Untold Story of Kayaking's Boldest Voyage by Dave Shively**
 
   This book is about a man who crossed from California to Hawaii by kayak. After 63 days at sea, he finally makes it. Although I have not read this book yet, it has been on my list for a while. The longest crossing we paddled during the Inside Passage was 7 miles. To cross the ocean in a kayak is a legendary act.
@@ -34,18 +34,32 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
 #### **Biking**
 
-50 Shades Of The USA: One woman's 11,000 mile cycling adventure through every state of America by Anna McNuff
+* **50 Shades Of The USA: One woman's 11,000 mile cycling adventure through every state of America by Anna McNuff**
 
-Lands of Lost Borders: A Journey on the Silk Road by Kate Harris
+  What a read! Reading this book will be a journey of it's own. What stands out the most from this book is the overwhelming kindness from others. This book will make you want to bike across the country just to meet people! 
 
-The Divide: A 2700 Mile Search For Answers by Nathan Doneen
+
+* **Lands of Lost Borders: A Journey on the Silk Road by Kate Harris**
+
+  I am so excited to read this book. I am in a few book clubs and this one comes up again and again. The author describes it best as "the chronicle of Harris’s odyssey and an exploration of the importance of breaking the boundaries we set ourselves; an examination of the stories borders tell, and the restrictions they place on nature and humanity; and a meditation on the existential need to explore—the essential longing to discover what in the universe we are doing here." Sounds amazing, right!?
+
+
+* **The Divide: A 2700 Mile Search For Answers by Nathan Doneen**
+
+  This book was an easy read. The author, Nathan, shares his time on the Great Divide Mountain bike route. He shares his encounters, his questions to his commitment, and the hardships. If you're looking for a new adventure, this book can give it to you.
 
 ![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_587/v1579038390/0018_lmtkam.jpg)
 
 #### **Other Adventures**
 
-Thru-Hiking Will Break Your Heart: An Adventure on the Pacific Crest Trail by Carrot Quinn
+* **Thru-Hiking Will Break Your Heart: An Adventure on the Pacific Crest Trail by Carrot Quinn**
 
-The Sun Is a Compass: A 4,000-Mile Journey into the Alaskan Wilds by Caroline Van Hemert
+  This is my current book club read, and it is a good one! Carrot is a young author who brings emotion to life. This book is a little different than the typical PCT book and is worth checking out.
+* **The Sun's a Compass: A 4,000-Mile Journey into the Alaskan Wilds by Caroline Van Hemert**
 
-Ruthless River: Love and Survival by Raft on the Amazon's Relentless Madre de Dios by Holly FitzGerald
+  This is a story of a biologist's human-powered journey from the Pacific Northwest to the Arctic to rediscover her love of birds, nature, and adventure. She travels by foot, canoe, ski, raft, and rowboat. I'm looking forward to reading this book.
+* **Ruthless River: Love and Survival by Raft on the Amazon's Relentless Madre de Dios by Holly FitzGerald**
+
+  The ultimate survival story; a wild ride—the wildest—down a South American river in the thick of the Amazon Basin; a true and thrilling adventure of a young married couple who survive a plane crash only to later raft hundreds of miles across Peru and Bolivia, ending up in a channel to nowhere, a dead end so flooded there is literally no land to stand on. Their raft—a mere four logs—separates them from the piranha-and-caiman-infested water until they finally realize that there is no way out but to swim. 
+
+**Have any books we should add to the list? Let us know! Email Adventures@crystalseas.org** 
