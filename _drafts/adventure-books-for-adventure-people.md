@@ -30,6 +30,8 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
   Want to gain inspiration through pictures? This book shows us the best places to go paddling in the world. It includes travel tips and insight on the destinations.
 
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_486/v1579038204/IMG_5072_wnoj3p.jpg)
+
 #### **Biking**
 
 50 Shades Of The USA: One woman's 11,000 mile cycling adventure through every state of America by Anna McNuff
@@ -38,7 +40,9 @@ Lands of Lost Borders: A Journey on the Silk Road by Kate Harris
 
 The Divide: A 2700 Mile Search For Answers by Nathan Doneen
 
-Other adventures-
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_587/v1579038390/0018_lmtkam.jpg)
+
+#### **Other Adventures**
 
 Thru-Hiking Will Break Your Heart: An Adventure on the Pacific Crest Trail by Carrot Quinn
 
