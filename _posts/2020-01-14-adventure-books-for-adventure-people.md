@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventure Books for Adventure People
+title: Adventure Books for Adventurous People
 date: 2020-01-14 08:00:00 +0000
 show_author: true
 categories: []
