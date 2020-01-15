@@ -12,7 +12,7 @@ redirect_from: []
 
 Need some inspiration for your next adventure? Want to learn more about kayaking, biking, or long trips? I’ve compiled a list of some of the top rated adventure books out there for all of you to check out. I have read some of them myself, and all of them have lit a little fire in me to get get outside and have more fun.
 
-![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_450/v1486680602/crystalseas-westside-with-tim-33_hfo3j7.jpg)
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_794/v1486680602/crystalseas-westside-with-tim-33_hfo3j7.jpg)
 
 #### **Kayaking**
 
@@ -29,7 +29,7 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
   Want to gain inspiration through pictures? This book shows us the best places to go paddling in the world. It includes travel tips and insight on the destinations.
 
-![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,h_250/v1579038204/IMG_5072_wnoj3p.jpg)
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_805/v1579038204/IMG_5072_wnoj3p.jpg)
 
 #### **Biking**
 
@@ -43,7 +43,7 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
   This book was an easy read. The author, Nathan, shares his time on the Great Divide Mountain bike route. He shares his encounters, his questions to his commitment, and the hardships. If you're looking for a new adventure, this book can give it to you.
 
-![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,h_250/v1579038390/0018_lmtkam.jpg)
+![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_819/v1579038390/0018_lmtkam.jpg)
 
 #### **Other Adventures**
 
