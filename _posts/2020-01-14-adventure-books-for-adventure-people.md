@@ -18,16 +18,16 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
 * **INSIDE: One Woman’s Journey Through the Inside Passage by Susan Conrad**
 
-  Susan Conrad's Inside was one of the books that Casey and I read before setting out for our own Inside Passage journey. It is beautifully written, spiritual, and just a feel good book that shows some hardships and challenges of not only a journey up the Inside Passage, but through life as well
+  Susan Conrad's _Inside_ was one of the books that Casey and I read before setting out for our own Inside Passage journey. It is beautifully written, spiritual, and just a feel good book that shows some hardships and challenges of not only a journey up the Inside Passage, but through life as well
 * **Paddling North: A Solo Adventure Along the Inside Passage by Audrey Sutherland and Yoshiko Yamamoto**
 
-  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you.
+  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you. Side note: Sutherland is considered the Grandmother of ocean touring, logging tens of thousands of miles of kayak and canoe trips on oceans around the planet. 
 * **The Pacific Alone: The Untold Story of Kayaking's Boldest Voyage by Dave Shively**
 
   This book is about a man who crossed from California to Hawaii by kayak. After 63 days at sea, he finally makes it. Although I have not read this book yet, it has been on my list for a while. The longest crossing we paddled during the Inside Passage was 7 miles. To cross the ocean in a kayak is a legendary act.
 * **Fifty Places to Paddle Before You Die: Kayaking and Rafting Experts Share the World s Greatest Destinations by Chris Santella**
 
-  Want to gain inspiration through pictures? This book shows us the best places to go paddling in the world. It includes travel tips and insight on the destinations.
+  Want to gain inspiration through beautiful images? This book shows us the best places to go paddling in the world. It includes travel tips and insight on the destinations.
 
 ![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_805/v1579038204/IMG_5072_wnoj3p.jpg)
 
@@ -35,7 +35,7 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
 * **50 Shades Of The USA: One woman's 11,000 mile cycling adventure through every state of America by Anna McNuff**
 
-  What a read! Reading this book will be a journey of it's own. What stands out the most from this book is the overwhelming kindness from others. This book will make you want to bike across the country just to meet people!
+  What a read! Reading this book will be a journey of it's own. What stands out the most from this book is the overwhelming kindness from others Anna meats along the way. This book will make you want to bike across the country just to meet people!
 * **Lands of Lost Borders: A Journey on the Silk Road by Kate Harris**
 
   I am so excited to read this book. I am in a few book clubs and this one comes up again and again. The author describes it best as "the chronicle of Harris’s odyssey and an exploration of the importance of breaking the boundaries we set ourselves; an examination of the stories borders tell, and the restrictions they place on nature and humanity; and a meditation on the existential need to explore—the essential longing to discover what in the universe we are doing here." Sounds amazing, right!?
