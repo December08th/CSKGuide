@@ -4,8 +4,8 @@ title: Interview with Howard Garrett
 date: 2020-02-10 08:00:00 +0000
 show_author: true
 categories: []
-image: ''
-image-sm: ''
+image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_1049/v1575012447/mountains-1_w7vjhi.jpg
+image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_495/v1575012447/mountains-1_w7vjhi.jpg
 redirect_from: []
 
 ---
