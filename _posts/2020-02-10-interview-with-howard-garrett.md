@@ -9,7 +9,7 @@ image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_495/v15750
 redirect_from: []
 
 ---
-For our first interview, I asked Howard Garrett Howard, to answer some questions. Howard Garrett and Susan Berta founded the Orca Network in November or 2001. Orca Network is a 501(c)(3) non-profit organization dedicated to raising awareness about the whales of the Pacific Northwest, and the importance of providing them healthy and safe habitats. A community is emerging that is increasingly attuned to the orca population, that cares about and tries to understand the needs of the Resident and Transient orcas that inhabit the Salish Sea.
+For our first interview, I asked Howard Garrett, to answer some questions. Howard Garrett and Susan Berta founded the Orca Network in November of 2001. Orca Network is a 501(c)(3) non-profit organization dedicated to raising awareness about the whales of the Pacific Northwest, and the importance of providing them healthy and safe habitats. A community is emerging that is increasingly attuned to the orca population, that cares about and tries to understand the needs of the Resident and Transient orcas that inhabit the Salish Sea.
 
 Q: First, will you tell me a bit about yourself?
 
