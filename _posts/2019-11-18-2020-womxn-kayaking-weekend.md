@@ -1,6 +1,6 @@
 ---
 title: 2020 Womxn Kayaking Weekend
-date: 2019-11-18T08:00:00.000+00:00
+date: 2019-12-10 08:00:00 +0000
 categories: []
 layout: post
 image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,e_auto_saturation,f_auto,w_1000/v1574117774/image2_gmkjr6.jpg
