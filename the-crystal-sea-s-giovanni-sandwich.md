@@ -7,7 +7,6 @@ categories: []
 image: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_1017/v1583282673/2020-03-03_16-25-01_1_ybgqmd.jpg
 image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_653/v1583282673/2020-03-03_16-25-01_1_ybgqmd.jpg
 redirect_from: []
-published: false
 
 ---
 If you've gone on a trip with us, it is likely you have had one of our Giovanni Sandwiches. We love these sandwiches so much, that I wanted to share the recipe with you all.
