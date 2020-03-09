@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Crystal Sea's Giovanni Sandwich
+title: The Crystal Seas Giovanni Sandwich
 date: 2020-03-08 23:00:00 +0000
 show_author: true
 categories: []
