@@ -17,7 +17,7 @@ The other ingredients include: Mama Bird Farms Heirloom Tomato, Fresh Basil from
 
 This is one of the easiest sandwiches to make. All you do is spread on the Pesto and Veganaise to the bread and layer everything else on!
 
-Vegetarian's can enjoy this sandwich without the turkey, people who are gluten -free can turn this sandwich to a perfect caprese style salad, and vegan's can use dairy free pesto and drop the mozzarella and turkey.
+Vegetarians can enjoy this sandwich without the turkey, people who are gluten-free can turn this sandwich to a perfect caprese style salad, and vegans can use dairy free pesto and drop the mozzarella and turkey.
 
 Join us for a multi-day trip and experience the amazing cuisine we offer.
 
