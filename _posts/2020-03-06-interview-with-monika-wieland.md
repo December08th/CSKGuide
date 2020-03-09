@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview with Monika Wieland
+title: Interview with Monika Wieland Shields
 date: 2020-03-06 17:00:00 +0000
 show_author: true
 categories: []
@@ -9,7 +9,7 @@ image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_601/v15832
 redirect_from: []
 
 ---
-**For our second interview, I reached out to the Orca Behavior Institute, a Non-profit organization here on San Juan Island that Crystal Seas Kayaking supports. Their mission is to conduct non-invasive behavioral and acoustic research on the killer whales of the Salish Sea and beyond. They collect data from shore and from boats in order to better understand the behavioral changes happening by the Orca whales in the Salish Sea. One of their Founders, Monika Wieland was kind enough to share about herself, the Orca Behavior Institute, and her new book,** **Endangered Orcas: The Story of the Southern Residents.**
+**For our second interview, I reached out to the Orca Behavior Institute, a Non-profit organization here on San Juan Island that Crystal Seas Kayaking supports. Their mission is to conduct non-invasive behavioral and acoustic research on the killer whales of the Salish Sea and beyond. They collect data from shore and from boats in order to better understand the behavioral changes happening by the Orca whales in the Salish Sea. One of their Founders, Monika Wieland Shields was kind enough to share about herself, the Orca Behavior Institute, and her new book,** **Endangered Orcas: The Story of the Southern Residents.**
 
 **Q: Thank you so much for agreeing to this interview. To start off, I'd love to learn a little about yourself. What are some of your hobbies and interests?**
 
