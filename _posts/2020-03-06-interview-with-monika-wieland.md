@@ -9,7 +9,7 @@ image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_601/v15832
 redirect_from: []
 
 ---
-**For our second interview, I reached out to the Orca Behavior Institute, a Non-profit organization here on San Juan Island that Crystal Seas Kayaking supports. Their mission is to conduct non-invasive behavioral and acoustic research on the killer whales of the Salish Sea and beyond. They collect data from shore and from boats in order to better understand the behavioral changes happening by the Orca whales in the Salish Sea. One of their Founders, Monika Wieland Shields was kind enough to share about herself, the Orca Behavior Institute, and her new book,** **Endangered Orcas: The Story of the Southern Residents.**
+**For our second interview, I reached out to the Orca Behavior Institute, a nonprofit organization here on San Juan Island that Crystal Seas Kayaking supports. Their mission is to conduct non-invasive behavioral and acoustic research on the killer whales of the Salish Sea and beyond. They collect data from shore and from boats in order to better understand the behavioral changes happening by the orca whales in the Salish Sea. One of their Founders, Monika Wieland Shields was kind enough to share about herself, the Orca Behavior Institute, and her new book,** **Endangered Orcas: The Story of the Southern Residents.**
 
 **Q: Thank you so much for agreeing to this interview. To start off, I'd love to learn a little about yourself. What are some of your hobbies and interests?**
 
@@ -37,7 +37,7 @@ We’re incredibly fortunate to have two populations of orcas that live in the s
 
 A: In addition to being here in the Salish Sea less often, when the Southern Residents are present, they tend to be in smaller groups. It used to be that if you saw one pod, it was usually all of that pod present. Now, pods are more likely to split into sub-groups, meaning that instead of seeing 20-30 animals you might have about a dozen animals traveling together. The most likely reason for this is also prey: if there isn’t enough salmon in one place to feed three dozen whales, if you split up, you might be able to find enough fish for your smaller immediate family. Historically, pod splitting was something seen more often in the winter, but now it’s occurring all year-round.
 
-**Q: Our guests usually come in with little to no knowledge about Orcas. What do you think is important for them to know?**
+**Q: Our guests usually come in with little to no knowledge about orcas. What do you think is important for them to know?**
 
 A: I think the comparative story of Southern Residents vs. Bigg’s killer whales is so important for naturalists and guides to share with visitors to the region. So many people don’t realize there are two populations of orcas here, and regardless of which type you are lucky enough to encounter, it’s a great teaching moment to explain the conservation issues important to the Southern Residents.
 
