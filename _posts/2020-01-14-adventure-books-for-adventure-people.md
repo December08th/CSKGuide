@@ -9,7 +9,6 @@ image-sm: https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_279/v15732
 redirect_from: []
 
 ---
-
 Need some inspiration for your next adventure? Want to learn more about kayaking, biking, or long trips? I’ve compiled a list of some of the top rated adventure books out there for all of you to check out. I have read some of them myself, and all of them have lit a little fire in me to get get outside and have more fun.
 
 ![](https://res.cloudinary.com/draxsqikl/image/upload/c_scale,w_794/v1486680602/crystalseas-westside-with-tim-33_hfo3j7.jpg)
@@ -21,7 +20,7 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
   Susan Conrad's _Inside_ was one of the books that Casey and I read before setting out for our own Inside Passage journey. It is beautifully written, spiritual, and just a feel good book that shows some hardships and challenges of not only a journey up the Inside Passage, but through life as well
 * **Paddling North: A Solo Adventure Along the Inside Passage by Audrey Sutherland and Yoshiko Yamamoto**
 
-  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you. Side note: Sutherland is considered the Grandmother of ocean touring, logging tens of thousands of miles of kayak and canoe trips on oceans around the planet. 
+  There are 22 years of experiences packed into this book. Audrey Sutherland is so aware of the world around her and shares it in such an engaging way. For the naturalist and adventurer, this book is for you. Side note: Sutherland is considered the Grandmother of ocean touring, logging tens of thousands of miles of kayak and canoe trips on oceans around the planet.
 * **The Pacific Alone: The Untold Story of Kayaking's Boldest Voyage by Dave Shively**
 
   This book is about a man who crossed from California to Hawaii by kayak. After 63 days at sea, he finally makes it. Although I have not read this book yet, it has been on my list for a while. The longest crossing we paddled during the Inside Passage was 7 miles. To cross the ocean in a kayak is a legendary act.
@@ -57,4 +56,4 @@ Need some inspiration for your next adventure? Want to learn more about kayaking
 
   The ultimate survival story; a wild ride—the wildest—down a South American river in the thick of the Amazon Basin; a true and thrilling adventure of a young married couple who survive a plane crash only to later raft hundreds of miles across Peru and Bolivia, ending up in a channel to nowhere, a dead end so flooded there is literally no land to stand on. Their raft—a mere four logs—separates them from the piranha-and-caiman-infested water until they finally realize that there is no way out but to swim.
 
-**Have any books we should add to the list? Let us know! Email Adventures@crystalseas.org**
+**Have any books we should add to the list? Let us know! Email Adventures@crystalseas.com**
